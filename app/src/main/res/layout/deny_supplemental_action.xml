@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ImageButton
+        android:id="@+id/ic2"
+        android:scaleType="fitCenter"
+        android:src="@drawable/ic_clear_black_24dp"
+        android:background="?android:selectableItemBackground"
+        style="@style/card.native.actions.button"
+        android:layout_marginRight="8dp"
+        xmlns:android="http://schemas.android.com/apk/res/android"/>

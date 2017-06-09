@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context="com.gmail.guushamm.homio.MainActivity">
+    <item android:title="Test message"
+          android:id="@+id/test_message"/>
+    <item android:title="Test cancel message"
+          android:id="@+id/test_cancel_message"/>
+    <item
+            android:id="@+id/action_settings"
+            android:title="@string/action_settings"
+            android:orderInCategory="100"
+            app:showAsAction="never"/>
+</menu>

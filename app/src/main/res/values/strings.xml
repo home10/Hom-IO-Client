@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HomIO</string>
+    <string name="action_settings">Settings</string>
+    <string name="connection_url">localhost</string>
+</resources>
